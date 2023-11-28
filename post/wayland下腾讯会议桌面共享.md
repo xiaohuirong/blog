@@ -73,4 +73,8 @@
 
 
 
-> 参考链接 https://blog.taoky.moe/2023-05-22/wemeet-screencast-in-wayland.html
+> 参考链接:
+>
+> 1. https://blog.taoky.moe/2023-05-22/wemeet-screencast-in-wayland.html
+>
+> 2. https://wiki.archlinux.org/title/V4l2loopback#Loading_the_kernel_module
