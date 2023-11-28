@@ -68,7 +68,7 @@
    DISPLAY=:114 echo "your content" | xclip -i -selection clipboard 
    ```
 
-![](https://github.com/xiaohuirong/blog/img/wemeet-wayland.png?raw=true)
+![](https://github.com/xiaohuirong/blog/blob/main/img/wemeet-wayland.png?raw=true)
 
 
 
