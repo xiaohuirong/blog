@@ -34,7 +34,7 @@
    wl-screenrec --ffmpeg-muxer v4l2 -f /dev/video0 --output DP-1
    ```
 
-4. 启动一个新的Xwayland， 下面的参数是直接复制过来的，具体含义每细致了解，去掉了全屏参数，添加了适应我显示设备分辨率的选项`-geometry 2560x1440`。
+4. 启动一个新的Xwayland， 下面的参数是直接复制过来的，具体含义没细致了解，去掉了全屏参数，添加了适应我显示设备分辨率的选项`-geometry 2560x1440`。
 
    ```shell
    Xwayland :114 -ac -retro +extension RANDR +extension RENDER +extension GLX +extension XVideo +extension DOUBLE-BUFFER +extension SECURITY +extension DAMAGE +extension X-Resource -extension XINERAMA -xinerama -extension MIT-SHM +extension Composite +extension COMPOSITE -extension XTEST -tst -dpms -s off -geometry 2560x1440
