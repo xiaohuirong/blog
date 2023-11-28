@@ -43,7 +43,7 @@
 5. 在xwayland里播放虚拟设备里要分享的屏幕内容
 
    ```shell
-   DISPLAY=:114 DISPLAY=:114 ffplay /dev/video0
+   DISPLAY=:114 ffplay /dev/video0
    ```
 
 6. 在xwayland里打开腾讯会议
